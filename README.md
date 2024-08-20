@@ -82,6 +82,7 @@ MSA의 특징인 각 서비스가 독립적으로 배포되는 것을 이용하�
 티켓팅 도메인에서 이벤트 예약이 시작할 때 급증하는 트래픽에 관해서 MSA의 트래픽 분산을 통한 시스템 성능을 유지하는 것을 기대하여 적용하게 되었습니다.
 
 ## UserFlow
+![t82 UserFlow drawio](https://github.com/user-attachments/assets/165d9f9f-30b1-4608-b0d8-27d7e6030472)
 
 ## System Architecture
 **1차 System Architecture**
