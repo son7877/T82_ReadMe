@@ -91,44 +91,49 @@ MSA의 특징인 각 서비스가 독립적으로 배포되는 것을 이용하�
 ## 사용 기술
 
 1. 프로그래밍 언어 및 프레임워크
-- Spring boot 3
-- Java 17
-- Swift 5.1
-- SwiftUI
+![Spring Boot 3](https://img.shields.io/badge/Spring%20Boot-3.0-6DB33F?logo=springboot&logoColor=white)
+![Java 17](https://img.shields.io/badge/Java-17-007396?logo=java&logoColor=white)
+![Swift 5.1](https://img.shields.io/badge/Swift-5.1-FA7343?logo=swift&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-007AFF?logo=swift&logoColor=white)
 
 2. 데이터 베이스
-- MySQL
-- Redis
-- Firebase
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=white)
 
 3. 클라우드
-- Google Cloud Platform
-- AWS Lambda
-- AWS S3
-- AWS EKS
-- AWS API GateWay
+![Google Cloud Platform](https://img.shields.io/badge/Google%20Cloud-4285F4?logo=googlecloud&logoColor=white)
+![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900?logo=awslambda&logoColor=white)
+![AWS S3](https://img.shields.io/badge/AWS%20S3-569A31?logo=amazons3&logoColor=white)
+![AWS EKS](https://img.shields.io/badge/AWS%20EKS-FF9900?logo=amazoneks&logoColor=white)
+![AWS API Gateway](https://img.shields.io/badge/AWS%20API%20Gateway-FF4F8B?logo=amazonapigateway&logoColor=white)
+
 
 4. 컨테이너 및 오케스트레이션
-- Docker
-- Kubernetes
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
+
 
 5. CI/CD
-- Jenkins
-- Xcode Cloud
-- TestFlight
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white)
+![Xcode Cloud](https://img.shields.io/badge/Xcode%20Cloud-147EFB?logo=xcode&logoColor=white)
+![TestFlight](https://img.shields.io/badge/TestFlight-0000FF?logo=testflight&logoColor=white)
+
 
 6. 메세지 브로커
-- apache kafka
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?logo=apachekafka&logoColor=white)
+
 
 7. 부하 테스트 도구
-- Jmeter
+![JMeter](https://img.shields.io/badge/JMeter-D22128?logo=apachejmeter&logoColor=white)
 
 8. 라이브러리
-- Feign
-- GRPC
-- jitpack
-- Alamofire
-- PopupView
-- CoreMotion
+![Feign](https://img.shields.io/badge/Feign-007396?logo=feign&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-4285F4?logo=grpc&logoColor=white)
+![JitPack](https://img.shields.io/badge/JitPack-4C4C4C?logo=jitpack&logoColor=white)
+![Alamofire](https://img.shields.io/badge/Alamofire-FF5722?logo=alamofire&logoColor=white)
+![PopupView](https://img.shields.io/badge/PopupView-FF4500?logo=swift&logoColor=white)
+![CoreMotion](https://img.shields.io/badge/CoreMotion-007AFF?logo=apple&logoColor=white)
+
 
 
