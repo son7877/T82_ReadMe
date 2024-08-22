@@ -90,7 +90,7 @@ MSA의 특징인 각 서비스가 독립적으로 배포되는 것을 이용하�
 
 
 **최종 System Architecture**
-![t82아키텍쳐-페이지-2 drawio (2)](https://github.com/user-attachments/assets/e62c72bd-6575-4fa7-be1e-ab04cde80c73)
+![t82아키텍쳐-페이지-2 (5)](https://github.com/user-attachments/assets/0077f317-aa4c-4f7d-b972-1c60604ceb21)
 
 ## 사용 기술
 
