@@ -99,45 +99,51 @@ MSA의 특징인 각 서비스가 독립적으로 배포되는 것을 이용하�
 ![Java 17](https://img.shields.io/badge/Java-17-007396?logo=java&logoColor=white)
 ![Swift 5.1](https://img.shields.io/badge/Swift-5.1-FA7343?logo=swift&logoColor=white)
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-007AFF?logo=swift&logoColor=white)
+[![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?logo=springsecurity&logoColor=white)](https://spring.io/projects/spring-security)
+[![Spring Data JPA](https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?logo=spring&logoColor=white)](https://spring.io/projects/spring-data-jpa)
 
-2. 데이터 베이스
+3. 데이터 베이스
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=white)
+[![Mongo DB](https://img.shields.io/badge/Mongo%20DB-47A248?logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 
-3. 클라우드
+5. 클라우드
 ![Google Cloud Platform](https://img.shields.io/badge/Google%20Cloud-4285F4?logo=googlecloud&logoColor=white)
 ![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900?logo=awslambda&logoColor=white)
 ![AWS S3](https://img.shields.io/badge/AWS%20S3-569A31?logo=amazons3&logoColor=white)
 ![AWS EKS](https://img.shields.io/badge/AWS%20EKS-FF9900?logo=amazoneks&logoColor=white)
 ![AWS API Gateway](https://img.shields.io/badge/AWS%20API%20Gateway-FF4F8B?logo=amazonapigateway&logoColor=white)
+[![Nginx](https://img.shields.io/badge/nginx-009639?logo=nginx&logoColor=white)](https://www.nginx.com/)
 
-
-4. 컨테이너 및 오케스트레이션
+6. 컨테이너 및 오케스트레이션
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
+[![Helm](https://img.shields.io/badge/Helm-0F1689?logo=Helm&logoColor=white)](https://helm.sh/)
 
 
-5. CI/CD
+8. CI/CD
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white)
 ![Xcode Cloud](https://img.shields.io/badge/Xcode%20Cloud-147EFB?logo=xcode&logoColor=white)
 ![TestFlight](https://img.shields.io/badge/TestFlight-0000FF?logo=testflight&logoColor=white)
 
 
-6. 메세지 브로커
+9. 메세지 브로커
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?logo=apachekafka&logoColor=white)
 
 
-7. 부하 테스트 도구
+10. 부하 테스트 도구
 ![JMeter](https://img.shields.io/badge/JMeter-D22128?logo=apachejmeter&logoColor=white)
 
-8. 라이브러리
+11. 라이브러리
 ![Feign](https://img.shields.io/badge/Feign-007396?logo=feign&logoColor=white)
 ![gRPC](https://img.shields.io/badge/gRPC-4285F4?logo=grpc&logoColor=white)
 ![JitPack](https://img.shields.io/badge/JitPack-4C4C4C?logo=jitpack&logoColor=white)
 ![Alamofire](https://img.shields.io/badge/Alamofire-FF5722?logo=alamofire&logoColor=white)
 ![PopupView](https://img.shields.io/badge/PopupView-FF4500?logo=swift&logoColor=white)
 ![CoreMotion](https://img.shields.io/badge/CoreMotion-007AFF?logo=apple&logoColor=white)
+[![Kakao Oauth](https://img.shields.io/badge/Kakao%20Oauth-FFCD00?logo=kakaotalk&logoColor=white)](https://developers.kakao.com/)
+[![Google Oauth](https://img.shields.io/badge/Google%20Oauth-4285F4?logo=google&logoColor=white)](https://developers.google.com/identity/protocols/oauth2)
 
 ## PPT
 
