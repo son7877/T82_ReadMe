@@ -146,6 +146,7 @@ MSA의 특징인 각 서비스가 독립적으로 배포되는 것을 이용하�
 [![Google Oauth](https://img.shields.io/badge/Google%20Oauth-4285F4?logo=google&logoColor=white)](https://developers.google.com/identity/protocols/oauth2)
 
 ## PPT
+[T82-발표-자료.pdf](https://github.com/user-attachments/files/16800595/T82-.-.pdf)
 
 
 
