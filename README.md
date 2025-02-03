@@ -148,7 +148,3 @@ MSA의 특징인 각 서비스가 독립적으로 배포되는 것을 이용하�
 ## PPT
 [T82-발표-자료.pdf](https://github.com/user-attachments/files/16800595/T82-.-.pdf)
 
-
-
-## 느낀 점 및 트러블 슈팅
-
